@@ -1,0 +1,196 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:b9e64947-ade2-47ec-9407-7161f814ccb1
+DTSTAMP:20250703T071445Z
+DTSTART;TZID=America/Chicago:20250702T080000
+DTEND;TZID=America/Chicago:20250702T090000
+SUMMARY:Workout: Upper Body Sculpt
+DESCRIPTION:Upper Body Sculpt | Shoulder Press, Bicep Curls + Tricep Extensions Superset, Lat Pulldown, Seated Row + Core Finisher + Walk Cooldown
+END:VEVENT
+BEGIN:VEVENT
+UID:7fef6508-295d-4cb7-9360-924e5ae6c386
+DTSTAMP:20250703T071445Z
+DTSTART;TZID=America/Chicago:20250703T080000
+DTEND;TZID=America/Chicago:20250703T090000
+SUMMARY:Workout: Glutes + Active Recovery
+DESCRIPTION:Glutes + Active Recovery | Step-ups, Banded Glute Bridges, Side-Lying Leg Lifts, Good Mornings + Light Walk + Core Finisher
+END:VEVENT
+BEGIN:VEVENT
+UID:57a1586a-989e-4204-a5c5-f8125a3972d1
+DTSTAMP:20250703T071445Z
+DTSTART;TZID=America/Chicago:20250704T080000
+DTEND;TZID=America/Chicago:20250704T090000
+SUMMARY:Workout: Full Body
+DESCRIPTION:Full Body | Goblet Squats, Dumbbell Rows, Chest Press, Romanian Deadlifts, Arnold Press + Optional Incline Walk + Core Finisher
+END:VEVENT
+BEGIN:VEVENT
+UID:701f6367-d94d-4962-a410-883632245dc0
+DTSTAMP:20250703T071445Z
+DTSTART;TZID=America/Chicago:20250705T080000
+DTEND;TZID=America/Chicago:20250705T090000
+SUMMARY:Workout: Active Recovery
+DESCRIPTION:Active Recovery | 20–30 min walk or stretch + Optional Standing Abs Finisher
+END:VEVENT
+BEGIN:VEVENT
+UID:536d2919-54b4-4433-8993-a56673aff47e
+DTSTAMP:20250703T071445Z
+DTSTART;TZID=America/Chicago:20250706T080000
+DTEND;TZID=America/Chicago:20250706T090000
+SUMMARY:Workout: Rest Day or Light Movement
+DESCRIPTION:Rest Day or Light Movement | Walk, Stretch or Mobility Flow
+END:VEVENT
+BEGIN:VEVENT
+UID:2ffa9b49-bbb3-4eb7-aa0d-654e0246b482
+DTSTAMP:20250703T071445Z
+DTSTART;TZID=America/Chicago:20250707T080000
+DTEND;TZID=America/Chicago:20250707T090000
+SUMMARY:Workout: Core + Cardio
+DESCRIPTION:Core + Cardio | Incline Treadmill 25 min + Kettlebell Around the Worlds, Heel Taps, In & Outs, Dead Bugs, Standing Marches + Core Finisher
+END:VEVENT
+BEGIN:VEVENT
+UID:7e7074dc-0605-42d2-9a77-72d0e91e60a1
+DTSTAMP:20250703T071445Z
+DTSTART;TZID=America/Chicago:20250708T080000
+DTEND;TZID=America/Chicago:20250708T090000
+SUMMARY:Workout: Lower Body + Cardio
+DESCRIPTION:Lower Body + Cardio | Stairmaster 20 min + Hip Abduction, Leg Press, Hip Thrusts, Glute Kickbacks + Core Finisher
+END:VEVENT
+BEGIN:VEVENT
+UID:2a37288e-1628-42da-a4ff-aef4f48f1a04
+DTSTAMP:20250703T071445Z
+DTSTART;TZID=America/Chicago:20250709T080000
+DTEND;TZID=America/Chicago:20250709T090000
+SUMMARY:Workout: Upper Body Sculpt
+DESCRIPTION:Upper Body Sculpt | Shoulder Press, Bicep Curls + Tricep Extensions Superset, Lat Pulldown, Seated Row + Core Finisher + Walk Cooldown
+END:VEVENT
+BEGIN:VEVENT
+UID:412a6287-fd4d-470c-b91e-2deac9aaad78
+DTSTAMP:20250703T071445Z
+DTSTART;TZID=America/Chicago:20250710T080000
+DTEND;TZID=America/Chicago:20250710T090000
+SUMMARY:Workout: Glutes + Active Recovery
+DESCRIPTION:Glutes + Active Recovery | Step-ups, Banded Glute Bridges, Side-Lying Leg Lifts, Good Mornings + Light Walk + Core Finisher
+END:VEVENT
+BEGIN:VEVENT
+UID:c433a4c8-7b24-4e1d-85aa-b76f3e5c46c6
+DTSTAMP:20250703T071445Z
+DTSTART;TZID=America/Chicago:20250711T080000
+DTEND;TZID=America/Chicago:20250711T090000
+SUMMARY:Workout: Full Body
+DESCRIPTION:Full Body | Goblet Squats, Dumbbell Rows, Chest Press, Romanian Deadlifts, Arnold Press + Optional Incline Walk + Core Finisher
+END:VEVENT
+BEGIN:VEVENT
+UID:4c84ad35-4167-4a57-86d1-e1af276ba154
+DTSTAMP:20250703T071445Z
+DTSTART;TZID=America/Chicago:20250712T080000
+DTEND;TZID=America/Chicago:20250712T090000
+SUMMARY:Workout: Active Recovery
+DESCRIPTION:Active Recovery | 20–30 min walk or stretch + Optional Standing Abs Finisher
+END:VEVENT
+BEGIN:VEVENT
+UID:b23f1851-fd88-4714-a52d-c8dac5bf4740
+DTSTAMP:20250703T071445Z
+DTSTART;TZID=America/Chicago:20250713T080000
+DTEND;TZID=America/Chicago:20250713T090000
+SUMMARY:Workout: Rest Day or Light Movement
+DESCRIPTION:Rest Day or Light Movement | Walk, Stretch or Mobility Flow
+END:VEVENT
+BEGIN:VEVENT
+UID:ec715bc3-fc40-41fc-afeb-5b18b4867c35
+DTSTAMP:20250703T071445Z
+DTSTART;TZID=America/Chicago:20250714T080000
+DTEND;TZID=America/Chicago:20250714T090000
+SUMMARY:Workout: Core + Cardio
+DESCRIPTION:Core + Cardio | Incline Treadmill 25 min + Kettlebell Around the Worlds, Heel Taps, In & Outs, Dead Bugs, Standing Marches + Core Finisher
+END:VEVENT
+BEGIN:VEVENT
+UID:cfce313f-c37c-4b70-880c-56ef6ab2448e
+DTSTAMP:20250703T071445Z
+DTSTART;TZID=America/Chicago:20250715T080000
+DTEND;TZID=America/Chicago:20250715T090000
+SUMMARY:Workout: Lower Body + Cardio
+DESCRIPTION:Lower Body + Cardio | Stairmaster 20 min + Hip Abduction, Leg Press, Hip Thrusts, Glute Kickbacks + Core Finisher
+END:VEVENT
+BEGIN:VEVENT
+UID:bb642154-41a0-4283-b7e4-0c388614accb
+DTSTAMP:20250703T071445Z
+DTSTART;TZID=America/Chicago:20250716T080000
+DTEND;TZID=America/Chicago:20250716T090000
+SUMMARY:Workout: Upper Body Sculpt
+DESCRIPTION:Upper Body Sculpt | Shoulder Press, Bicep Curls + Tricep Extensions Superset, Lat Pulldown, Seated Row + Core Finisher + Walk Cooldown
+END:VEVENT
+BEGIN:VEVENT
+UID:980ac505-6e05-4be1-8be6-4afc1ddb975f
+DTSTAMP:20250703T071445Z
+DTSTART;TZID=America/Chicago:20250717T080000
+DTEND;TZID=America/Chicago:20250717T090000
+SUMMARY:Workout: Glutes + Active Recovery
+DESCRIPTION:Glutes + Active Recovery | Step-ups, Banded Glute Bridges, Side-Lying Leg Lifts, Good Mornings + Light Walk + Core Finisher
+END:VEVENT
+BEGIN:VEVENT
+UID:7ca814c1-d009-48a2-bc4e-8e52d6962fe8
+DTSTAMP:20250703T071445Z
+DTSTART;TZID=America/Chicago:20250718T080000
+DTEND;TZID=America/Chicago:20250718T090000
+SUMMARY:Workout: Full Body
+DESCRIPTION:Full Body | Goblet Squats, Dumbbell Rows, Chest Press, Romanian Deadlifts, Arnold Press + Optional Incline Walk + Core Finisher
+END:VEVENT
+BEGIN:VEVENT
+UID:58076bcf-cce7-4ef9-adc2-2bdf20f8c32f
+DTSTAMP:20250703T071445Z
+DTSTART;TZID=America/Chicago:20250719T080000
+DTEND;TZID=America/Chicago:20250719T090000
+SUMMARY:Workout: Active Recovery
+DESCRIPTION:Active Recovery | 20–30 min walk or stretch + Optional Standing Abs Finisher
+END:VEVENT
+BEGIN:VEVENT
+UID:4c0055cc-ade0-4fb9-899f-a8b9e56afd54
+DTSTAMP:20250703T071445Z
+DTSTART;TZID=America/Chicago:20250720T080000
+DTEND;TZID=America/Chicago:20250720T090000
+SUMMARY:Workout: Rest Day or Light Movement
+DESCRIPTION:Rest Day or Light Movement | Walk, Stretch or Mobility Flow
+END:VEVENT
+BEGIN:VEVENT
+UID:58cb942b-276b-4edb-8c01-d1680aa4a3fe
+DTSTAMP:20250703T071445Z
+DTSTART;TZID=America/Chicago:20250721T080000
+DTEND;TZID=America/Chicago:20250721T090000
+SUMMARY:Workout: Core + Cardio
+DESCRIPTION:Core + Cardio | Incline Treadmill 25 min + Kettlebell Around the Worlds, Heel Taps, In & Outs, Dead Bugs, Standing Marches + Core Finisher
+END:VEVENT
+BEGIN:VEVENT
+UID:ec7d1d44-ed56-4eed-961b-20d43a311f89
+DTSTAMP:20250703T071445Z
+DTSTART;TZID=America/Chicago:20250722T080000
+DTEND;TZID=America/Chicago:20250722T090000
+SUMMARY:Workout: Lower Body + Cardio
+DESCRIPTION:Lower Body + Cardio | Stairmaster 20 min + Hip Abduction, Leg Press, Hip Thrusts, Glute Kickbacks + Core Finisher
+END:VEVENT
+BEGIN:VEVENT
+UID:e7c44d85-9586-4c92-a77d-679eb93484b1
+DTSTAMP:20250703T071445Z
+DTSTART;TZID=America/Chicago:20250723T080000
+DTEND;TZID=America/Chicago:20250723T090000
+SUMMARY:Workout: Upper Body Sculpt
+DESCRIPTION:Upper Body Sculpt | Shoulder Press, Bicep Curls + Tricep Extensions Superset, Lat Pulldown, Seated Row + Core Finisher + Walk Cooldown
+END:VEVENT
+BEGIN:VEVENT
+UID:1b57ec40-b1fc-441d-89b2-e5f1640da02e
+DTSTAMP:20250703T071445Z
+DTSTART;TZID=America/Chicago:20250724T080000
+DTEND;TZID=America/Chicago:20250724T090000
+SUMMARY:Workout: Glutes + Active Recovery
+DESCRIPTION:Glutes + Active Recovery | Step-ups, Banded Glute Bridges, Side-Lying Leg Lifts, Good Mornings + Light Walk + Core Finisher
+END:VEVENT
+BEGIN:VEVENT
+UID:8917dc8e-cd86-411f-aacc-a9621901a317
+DTSTAMP:20250703T071445Z
+DTSTART;TZID=America/Chicago:20250725T080000
+DTEND;TZID=America/Chicago:20250725T090000
+SUMMARY:Workout: Full Body
+DESCRIPTION:Full Body | Goblet Squats, Dumbbell Rows, Chest Press, Romanian Deadlifts, Arnold Press + Optional Incline Walk + Core Finisher
+END:VEVENT
+END:VCALENDAR
